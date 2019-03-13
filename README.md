@@ -1,2 +1,0 @@
-# PythonFundamentals
-Python Fundamentals Documentation 
